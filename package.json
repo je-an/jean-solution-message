@@ -1,6 +1,6 @@
 {
   "name": "jean-solution-message",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Provides message classes",
   "main": "dist/jean-solution-message.js",
   "scripts": {
