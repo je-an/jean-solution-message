@@ -15,6 +15,9 @@ define([], function () {
         TERRAIN_STATE_UPDATE_REQUEST: "TerrainStateUpdateRequest",
         BUILDING_STATE_REQUEST: "BuildingStateRequest",
         BUILDING_STATE_RESPONSE: "BuildingStateResponse",
-        BUILDING_STATE_UPDATE_REQUEST: "BuildingStateUpdateRequest"
+        BUILDING_STATE_UPDATE_REQUEST: "BuildingStateUpdateRequest",
+        INCIDENT_LIST_REQUEST: "IncidentListRequest",
+        INCIDENT_LIST_RESPONSE: "IncidentListResponse",
+        INCIDENT_START_REQUEST: "IncidentStartRequest"
     };
 });

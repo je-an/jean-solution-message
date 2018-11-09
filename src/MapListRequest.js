@@ -1,5 +1,4 @@
-define(["MessageType", "Failure"], function (MessageType, Failure) {
-    "use strict";
+define(["MessageType"], function (MessageType) {
     /** */
     var MapListRequest = function () {
         this.type = MessageType.MAP_LIST_REQUEST;
