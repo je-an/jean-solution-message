@@ -18,6 +18,6 @@ define([], function () {
         BUILDING_STATE_UPDATE_REQUEST: "BuildingStateUpdateRequest",
         INCIDENT_LIST_REQUEST: "IncidentListRequest",
         INCIDENT_LIST_RESPONSE: "IncidentListResponse",
-        INCIDENT_START_REQUEST: "IncidentStartRequest"
+        INCIDENT_CREATE_REQUEST: "IncidentCreateRequest"
     };
 });
