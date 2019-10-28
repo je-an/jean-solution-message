@@ -1,6 +1,8 @@
 define([], function () {
     return {
         VEHICLE_SCENARIO_REQUEST: "VehicleScenarioRequest",
+        VEHICLE_SCENARIO_RESPONSE: "VehicleScenarioResponse",
+        VEHICLE_SCENARIO_UPDATE_RESPONSE: "VehicleScenarioUpdateResponse",
         VEHICLE_INFORMATION_REQUEST: "VehicleInformationRequest",
         VEHICLE_ADD_REQUEST: "VehicleAddRequest",
         VEHICLE_REMOVE_RESPONSE: "VehicleRemoveResponse",
