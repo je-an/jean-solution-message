@@ -1,5 +1,9 @@
 define([], function () {
     return {
+        VEHICLE_SCENARIO_REQUEST: "VehicleScenarioRequest",
+        VEHICLE_INFORMATION_REQUEST: "VehicleInformationRequest",
+        VEHICLE_ADD_REQUEST: "VehicleAddRequest",
+        VEHICLE_REMOVE_RESPONSE: "VehicleRemoveResponse",
         MAP_LIST_REQUEST: "MapListRequest",
         MAP_LIST_RESPONSE: "MapListResponse",
         LAYER_CONFIGURATION_LIST_REQUEST: "LayerConfigurationListRequest",
