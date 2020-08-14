@@ -1,5 +1,7 @@
 define([], function () {
     return {
+        DATA_SET_LIST_REQUEST: "DataSetListRequest",
+        DATA_SET_LIST_RESPONSE: "DataSetListResponse",
         VEHICLE_LIST_REQUEST: "VehicleListRequest",
         VEHICLE_LIST_RESPONSE: "VehicleListResponse",
         VEHICLE_SCENARIO_LIST_REQUEST: "VehicleScenarioListRequest",
